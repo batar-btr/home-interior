@@ -19,5 +19,8 @@
   "dependencies": {
     "reset-css": "^2.2.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "font-awesome": "^4.7.0",
+    "fullpage.js": "^2.9.4"
+  }
 }
